@@ -1,0 +1,65 @@
+.over{
+  display: flex;
+  min-height: 100vh;
+  flex-direction:column;
+  
+  justify-content:center;
+  justify-content: space-between;
+  text-align: center;
+ 
+  
+}
+.heh1{
+  color:white;
+  background-color: blue;
+  padding: 20px;
+  font-size: 35px;
+  
+  align-items: center;
+  font-weight: 500 ;
+ 
+  justify-content: space-between;
+  max-height: 100vh;
+}
+.foot{
+  color:white;
+  background-color: blue;
+  padding: 20px;
+  font-size: 35px;
+  
+  align-items: center;
+  font-weight: 500 ;
+ 
+  justify-content: space-between;
+  max-height: 100vh;
+}
+.cont{
+  
+  padding: 20px;
+  font-size: 35px;
+  text-align: center;
+  font-weight: 500 ;
+  
+  justify-content: space-around;
+  max-height: 100vh;
+  gap: 10px;
+
+}
+.cont button{
+  color: white;
+  background-color: blue;
+  margin: 7px;
+  padding: 10px 20px;
+  border: none;
+  font-size: 15px;
+}
+
+
+.cont .button1:hover{
+  color:yellow;
+  font-size: 16px ;
+}
+.cont .button2:hover{
+  color:yellow;
+  font-size: 16px ;
+}
